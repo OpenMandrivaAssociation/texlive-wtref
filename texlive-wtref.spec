@@ -1,6 +1,6 @@
 Name:		texlive-wtref
 Version:	55558
-Release:	1
+Release:	2
 Summary:	Extend LaTeX's cross-reference system
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wtref
