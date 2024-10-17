@@ -3,7 +3,7 @@ Version:	69214
 Release:	1
 Summary:	Extend LaTeX's cross-reference system
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wtref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wtref
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wtref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wtref.doc.r%{version}.tar.xz
